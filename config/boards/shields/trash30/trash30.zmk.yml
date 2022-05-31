@@ -1,0 +1,8 @@
+file_format: "1"
+id: trash30
+name: trash30
+type: shield
+url: https://github.com/f4rtist/zmk-config-trash-30
+requires: [nice_nano_v2]
+features:
+  - keys
