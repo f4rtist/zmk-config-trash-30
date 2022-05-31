@@ -13,4 +13,5 @@
 #
 ---
 include:
-  - board: trash30
+  - board: nice_nano_v2
+    shield: trash30
